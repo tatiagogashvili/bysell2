@@ -10,4 +10,5 @@ import java.util.Vector;
 @Repository
 public interface ProductReposytory extends JpaRepository<Product,String> {
 /*    Vector <Product> getAllBy(String ean_code);*/
+
 }
